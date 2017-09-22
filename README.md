@@ -1,1 +1,1 @@
-"# TerningApplikation" 
+# TerningApplikation
