@@ -7,7 +7,7 @@ namespace Kursus.TerningApplikation.Test.Kerne
     [TestClass]
     public class TerningerTest
     {
-        // TODO: Mangler tests
+        // TODO: Mangler andre tests
 
         [TestMethod]
         public void OpretTerningerTest()
