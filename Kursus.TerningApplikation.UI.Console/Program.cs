@@ -16,6 +16,7 @@ namespace Kursus.TerningApplikation.UI.Console
 
             Terninger b = new Terninger(5);
             System.Console.WriteLine(b.ToString());
+            //Teest
         }
     }
 }
